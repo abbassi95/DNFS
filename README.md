@@ -4,10 +4,10 @@
 This repository contains the source code to reproduce the results stated in the paper "Embedded Feature Selection Using Dual-Network Architecture".
 
 ## Installation
-Since we have only tested the implementation on Linux systems, we recommend using one if you intend to reproduce the results yourself. If you are using a virtual environment with pip, simply install the 'req.txt,' via
+Since we have only tested the implementation on Linux systems, we recommend using one if you intend to reproduce the results yourself. If you are using a virtual environment with pip, simply install the 'requirements.txt,' via
 
 ```bash
-pip install -r req.txt
+pip install -r requirements.txt
 ```
 
 and you should be ready to go. On Windows, you may need to change the optimizer from
